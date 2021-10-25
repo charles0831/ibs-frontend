@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="18.62" height="18.62" viewBox="0 0 18.62 18.62">
+  <defs>
+    <clipPath id="clip-_8_pomoc">
+      <rect width="18.62" height="18.62"/>
+    </clipPath>
+  </defs>
+  <g id="_8_pomoc" data-name="8 pomoc" clip-path="url(#clip-_8_pomoc)">
+    <g id="Group_440" data-name="Group 440">
+      <g id="Group_3" data-name="Group 3">
+        <circle id="Ellipse_60" data-name="Ellipse 60" cx="0.909" cy="0.909" r="0.909" transform="translate(8.399 12.853)" fill="#a8b0b6"/>
+        <path id="Path_18" data-name="Path 18" d="M9.308,0a9.308,9.308,0,1,0,9.308,9.308A9.3,9.3,0,0,0,9.308,0Zm0,17.162a7.854,7.854,0,1,1,7.854-7.854A7.849,7.849,0,0,1,9.308,17.162Z" fill="#a8b0b6"/>
+        <path id="Path_19" data-name="Path 19" d="M178.909,128.5A2.912,2.912,0,0,0,176,131.409a.727.727,0,1,0,1.454,0,1.454,1.454,0,1,1,1.454,1.454.727.727,0,0,0-.727.727v1.818a.727.727,0,0,0,1.454,0v-1.183a2.909,2.909,0,0,0-.727-5.726Z" transform="translate(-169.601 -123.828)" fill="#a8b0b6"/>
+      </g>
+    </g>
+  </g>
+</svg>

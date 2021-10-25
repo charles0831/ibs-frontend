@@ -1,0 +1,18 @@
+.calendar-container {
+    width: 360px;
+    position: absolute;
+    top: 0;
+    right: 0;
+    z-index: 2;
+    background: #fff;
+    border: 2px solid #eee;
+    border-bottom-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+  }
+  
+ input {
+    padding: 12px 30px;
+    font-size: 14px;
+    width: 100%;
+    font-family: 'roboto';
+ }

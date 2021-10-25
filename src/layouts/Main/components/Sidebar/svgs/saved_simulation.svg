@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="18.62" height="18.62" viewBox="0 0 18.62 18.62">
+  <defs>
+    <clipPath id="clip-_7_zapisane_symulacje">
+      <rect width="18.62" height="18.62"/>
+    </clipPath>
+  </defs>
+  <g id="_7_zapisane_symulacje" data-name="7 zapisane symulacje" clip-path="url(#clip-_7_zapisane_symulacje)">
+    <g id="diskette">
+      <g id="Group_340" data-name="Group 340">
+        <g id="Group_339" data-name="Group 339">
+          <path id="Path_271" data-name="Path 271" d="M151.545,303.091h6.545a.545.545,0,1,0,0-1.091h-6.545a.545.545,0,1,0,0,1.091Z" transform="translate(-145.51 -291.019)" fill="#a8b0b6"/>
+          <path id="Path_272" data-name="Path 272" d="M151.545,363.091h6.545a.545.545,0,1,0,0-1.091h-6.545a.545.545,0,1,0,0,1.091Z" transform="translate(-145.51 -348.838)" fill="#a8b0b6"/>
+          <path id="Path_273" data-name="Path 273" d="M18.456,3.069,15.548.16A.545.545,0,0,0,15.162,0H.545A.545.545,0,0,0,0,.545V18.071a.545.545,0,0,0,.545.545H18.071a.545.545,0,0,0,.545-.545V3.454A.545.545,0,0,0,18.456,3.069ZM4.4,1.091h7.636V4.727H4.4Zm9.817,16.435H4.4V9.89h9.817Zm3.309,0H15.307V9.344a.545.545,0,0,0-.545-.545H3.854a.545.545,0,0,0-.545.545v8.181H1.091V1.091H3.309V5.272a.545.545,0,0,0,.545.545H12.58a.545.545,0,0,0,.545-.545V1.091h1.81L17.525,3.68Z" fill="#a8b0b6"/>
+          <path id="Path_274" data-name="Path 274" d="M151.545,423.091h6.545a.545.545,0,1,0,0-1.091h-6.545a.545.545,0,1,0,0,1.091Z" transform="translate(-145.51 -406.656)" fill="#a8b0b6"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

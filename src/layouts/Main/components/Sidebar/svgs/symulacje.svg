@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="19.16" height="21.95" viewBox="0 0 19.16 21.95">
+  <defs>
+    <clipPath id="clip-_3_własne_symulacje">
+      <rect width="19.16" height="21.95"/>
+    </clipPath>
+  </defs>
+  <g id="_3_własne_symulacje" data-name="3 własne symulacje" clip-path="url(#clip-_3_własne_symulacje)">
+    <g id="pie-chart" transform="translate(-30.028)">
+      <g id="Group_325" data-name="Group 325" transform="translate(32.543)">
+        <g id="Group_324" data-name="Group 324" transform="translate(0)">
+          <path id="Path_256" data-name="Path 256" d="M97.988,2.743A9.6,9.6,0,0,0,84.5,2.789l-.32.32L91.268,10.2l7.041-7.132ZM91.268,8.87,85.507,3.109A8.9,8.9,0,0,1,91.268.869a8.591,8.591,0,0,1,5.715,2.195Z" transform="translate(-84.181)" fill="#a8b0b6"/>
+        </g>
+      </g>
+      <g id="Group_327" data-name="Group 327" transform="translate(30.028 5.212)">
+        <g id="Group_326" data-name="Group 326" transform="translate(0)">
+          <path id="Path_257" data-name="Path 257" d="M46.35,112.567l-.32-.32-6.4,6.492-6.446-6.447-.32.32a9.4,9.4,0,0,0-2.835,6.767,9.578,9.578,0,1,0,16.322-6.812Zm-6.721,15.5a8.683,8.683,0,0,1-8.687-8.687,8.556,8.556,0,0,1,2.24-5.806l6.447,6.447,6.4-6.492a8.672,8.672,0,0,1-6.4,14.539Z" transform="translate(-30.028 -112.247)" fill="#a8b0b6"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

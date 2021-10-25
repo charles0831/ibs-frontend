@@ -1,0 +1,42 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  height: 100%;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+  background-color: #f4f6f8;
+  height: 100%;
+  &.links-underline{
+		a:not(.button-link){
+			text-decoration: underline;
+    }
+    button {
+      text-decoration: underline;
+    }
+    &.language-switcher{
+      li {
+        text-decoration: underline !important;
+      }
+    }
+  }
+
+}
+
+a {
+  text-decoration: none;
+}
+
+#root {
+  height: 100%;
+}
+
+.react-toast-notifications__container {
+  font-family: 'roboto';
+}

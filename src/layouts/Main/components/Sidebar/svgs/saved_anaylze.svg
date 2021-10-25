@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="18.79" height="19.56" viewBox="0 0 18.79 19.56">
+  <defs>
+    <clipPath id="clip-_6_zapisane_analizy">
+      <rect width="18.79" height="19.56"/>
+    </clipPath>
+  </defs>
+  <g id="_6_zapisane_analizy" data-name="6 zapisane analizy" clip-path="url(#clip-_6_zapisane_analizy)">
+    <g id="analytics" transform="translate(-7.999)">
+      <g id="Group_342" data-name="Group 342" transform="translate(15.542 2.714)">
+        <g id="Group_341" data-name="Group 341">
+          <path id="Path_275" data-name="Path 275" d="M169.076,57.551V56h-3.1v3.1h-2.326v5.428H171.4V57.551Zm-3.1,6.2h-1.551V59.877h1.551Zm2.326-6.2v6.2H166.75V56.775H168.3Zm2.326,6.2h-1.551V58.326h1.551Z" transform="translate(-163.648 -56)" fill="#a8b0b6"/>
+        </g>
+      </g>
+      <g id="Group_344" data-name="Group 344" transform="translate(7.999)">
+        <g id="Group_343" data-name="Group 343">
+          <path id="Path_276" data-name="Path 276" d="M19.419,0a7.358,7.358,0,0,0-6.147,11.415L8.339,16.347a1.164,1.164,0,0,0,0,1.645l1.23,1.23a1.164,1.164,0,0,0,1.645,0l5.157-5.157A7.363,7.363,0,1,0,19.419,0ZM10.665,18.673a.388.388,0,0,1-.548,0l-1.23-1.23a.388.388,0,0,1,0-.548l4.848-4.848a7.418,7.418,0,0,0,1.918,1.638Zm8.754-4.716A6.591,6.591,0,1,1,26.01,7.366,6.6,6.6,0,0,1,19.419,13.957Z" transform="translate(-7.999)" fill="#a8b0b6"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
